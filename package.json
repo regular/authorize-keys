@@ -1,0 +1,25 @@
+{
+  "name": "authorize-keys",
+  "version": "1.0.0",
+  "description": "Download a bunch of public keys from github to quickly create an authorized-keys file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/authorize-keys.git"
+  },
+  "keywords": [
+    "ssh",
+    "public-key",
+    "github",
+    "authorized-keys"
+  ],
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regular/authorize-keys/issues"
+  },
+  "homepage": "https://github.com/regular/authorize-keys#readme"
+}
